@@ -11,5 +11,4 @@ Acknowledgements : The data came from the paper: Zham P, Kumar DK, Dabnichki P, 
 
 https://www.frontiersin.org/articles/10.3389/fneur.2017.00435/full
 
-Co-authored-by: Sorayita8 karimisoraya@hotmail.com
 
