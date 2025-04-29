@@ -1,7 +1,9 @@
 # Parkinson_DL_ML-
 
 Parkinson Classification using Hand Drawings (Static Spiral test and Static Wave Test)
+
 The Code was made in Google Copilot , in case of using other coding enviroment like Jupiter Lab "Ipip install" is necessary to use the libraries.
+The dataset was path was extracted from Google Drive , to extracted from other source do necessary changes.
 
 Dataset obtain from Kaggle : https://www.kaggle.com/datasets/kmader/parkinsons-drawings
 
